@@ -19,8 +19,7 @@ I'm passionate about technology, problem-solving, and building projects that sol
 - 👯 **Collaboration:** Open-source projects and AI/ML applications.
 - 🤝 **Looking for help with:** Artificial Intelligence and Machine Learning pipelines.
 - 💬 **Ask me about:** Python, C, Java, and programming fundamentals.
-- ⚡ **Fun fact:** Smart some of the times.
-
+- 
 ---
 
 ## 🛠️ Tech Stack
